@@ -1,0 +1,15 @@
+{
+  "name": "fetch-ssi-into-local",
+  "version": "1.0.0",
+  "description": "fetch ssi from server init local",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Derycktse",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "ssh2": "^0.5.4"
+  }
+}
